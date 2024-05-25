@@ -1,0 +1,49 @@
+body{
+    margin:auto;
+}
+.outerdiv{
+    width:1000px;
+    height:500px;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width:500px;
+    height:500px;
+    background-color:#e0bc9a;
+}
+.login{
+    background-color: orangered;
+    color:white;
+}
+.left img{
+width:400px;
+height:300px;
+margin-left:50px;
+margin-top:70px;
+}
+.innerright{
+    margin-left:50px;
+    margin-top:40px; 
+    display:flex;
+    flex-direction: column;
+}
+.innerright input{
+    width:300px;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    margin-bottom:30px;
+}
+.innerright button{
+    margin-bottom:1px;
+    height:40px;
+    border-radius: 6px;
+    width: 300px;
+
+}
+.welcome{
+    font-size:33px;
+    margin-bottom:35px;
+}
+

@@ -1,0 +1,63 @@
+.grocerybanner{
+    height:172px;
+    width:1183px;
+    background-color: #fafafa;
+    display: flex;
+    margin:0 auto;
+}
+.middle{
+    width:760px;
+    height:99px;
+    text-align: center;
+    margin:auto;
+}
+.rightimg img{
+    width:200px;
+    height:172px;
+}
+.leftimg img{
+    width:200px;
+    height:172px;
+}
+.ghee{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ghee img{
+    width: 84px;
+    height:140px;
+}
+.ghee div{
+    width: 282px;
+    height: 277px;
+    margin-bottom: 48px;
+}
+.ghee-main{
+    margin-top: 80px;
+    text-align: center;
+    margin-left:40px;
+
+}
+.ghee-main .shop{
+    display: flex;
+}
+.sort{
+    display: flex;
+}
+.sort p{
+    margin-right:25px;
+}
+.shop{
+    display: flex;
+    justify-content: space-between;
+}
+.ghee-main h4{
+    text-align: left;
+    margin-bottom: 25px;
+    padding-left: 16px;
+
+}
+.grocerypg{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,51 @@
+.sign input{
+    width: 310px;
+    height: 22px;
+   
+}
+.outerdiv{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sign{
+    width: 600px;
+    height:500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.register{
+    width: 309px;
+    border-radius: 7px;
+    height: 30px;
+    background-color: orangered;
+    color: white;
+    font-size: 14px;
+}
+.contents{
+    margin-left:130px;
+    font-size: 16px;
+
+}
+.contents .signup{
+    font-size: 27px;
+    margin-bottom: 24px;
+}
+.category{
+    width: 158px;
+    height: 45px;
+}
+.contents input{
+    margin:13px 0;
+}
+.btns button{
+    margin-bottom: 15px;
+    background-color: #e8dfdf;
+    border-top-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    margin-right: 10px;
+}

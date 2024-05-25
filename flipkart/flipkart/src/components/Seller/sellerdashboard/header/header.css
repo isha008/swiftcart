@@ -1,0 +1,26 @@
+.sellerheader{
+    display: flex;
+    justify-content: space-around;
+    height: 61px;
+    background-color: #f1f2f4}
+.logo input{
+    margin-left:105px;
+    width:910px;
+    height:40px;
+    margin-top: 11px;
+}
+.user{
+    width: 80px;
+    margin-top: 20px;
+    display: flex;
+}
+.user img{
+    width:27px;
+    height:30px;
+}
+.email{
+    margin-right:15px;
+}
+.horizontal{
+    display: flex;
+}

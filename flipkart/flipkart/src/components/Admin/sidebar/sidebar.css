@@ -1,0 +1,21 @@
+.sidenav{
+    width: 241px;
+    height: 100vh;
+    background-color: beige;
+
+
+}
+.sidenav img{
+    margin-top: 20px;
+    margin-left: 28px;
+    width: 175px;
+}
+.sidenav ul{
+    list-style-type: none;
+    margin-top:40px;
+}
+.sidenav ul li{
+    margin-bottom:36px;
+    background-color: aqua;
+    font-size: 19px;
+}

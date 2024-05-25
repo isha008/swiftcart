@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    height: 69px;
+    width: 100%;
+}
+.container p{
+    text-align: center;
+    margin: auto;
+    margin-right:20px;
+}
+.container button{
+    height: 27px;
+    font-size: 12px;
+    margin: auto;
+    margin-left: 0;
+
+}

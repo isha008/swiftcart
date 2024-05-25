@@ -1,0 +1,47 @@
+.outerbanner{
+    width:827px;
+    height: 467px;
+    margin:auto;
+    margin-top: 75px;
+}
+.toysbanner{
+    width:196px;
+    height:105px;
+}
+
+.electronicsbanner{
+    width: 267px;
+    height:152px;
+}
+.fashionbanner{
+    width: 268px;
+    height: 152px;
+    }
+.furniturebanner{
+        width:199px;
+        height:304px;
+        } 
+.middlebanner{
+    display: flex;
+    flex-direction: column;
+}   
+.grocerybanners{
+    width: 334px;
+    height: 309px;
+    }   
+.appliances{
+    width:199px;
+    height:105px;
+
+}
+.bannerimage{
+    width:405px;
+    height:106px;
+}   
+/* .images{
+    margin: 0 30px;
+}   */
+
+.images{
+    display: flex;
+}

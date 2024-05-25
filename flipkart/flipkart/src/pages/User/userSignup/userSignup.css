@@ -1,0 +1,67 @@
+body{
+    margin:auto;
+}
+.outerdiv{
+    width:1000px;
+    height:500px;
+    display: flex;
+    margin:0 auto;
+    margin-top:30px;
+}
+.left{
+    width:500px;
+    height:500px;
+    background-color:#e0bc9a;
+}
+.left img{
+width:400px;
+height:300px;
+margin-left:50px;
+margin-top:70px;
+}
+.innerright{
+    margin-left:50px;
+    margin-top:40px; 
+    display:flex;
+    flex-direction: column;
+}
+.innerright input{
+    width:300px;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    margin-bottom:30px;
+}
+/* .innerright button{
+    margin-bottom:15px;
+    height:40px;
+    border-radius: 6px;
+    width: 300px;
+
+} */
+.innerright .account{
+    background-color: orangered;
+    color: white;
+    margin-bottom:15px;
+    height:40px;
+    border-radius: 6px;
+    width: 300px;
+}
+.innerright .exist{
+    background-color: white;
+}
+.innerright .create{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.exist img{
+    width:15px;
+}
+.google{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.google img{
+    margin-right:10px;
+}

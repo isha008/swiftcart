@@ -1,0 +1,11 @@
+.outerdivs{
+    display:flex;
+    justify-content: space-around;
+    color:black;
+    font-family: sans-serif;
+    margin-top: 85px;
+    
+}
+.outerdivs h4{
+    font-size: 14px;
+}

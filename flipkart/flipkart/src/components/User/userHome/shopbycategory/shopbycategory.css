@@ -1,0 +1,19 @@
+.shopbycategory div{
+    width: 200px;
+    height: 165px;
+    background-color:#b1ccea;
+    text-align: center;
+    align-content: center;
+}
+.shopbycategory{
+    display: flex;
+    justify-content: space-around;
+}
+.outershopbycat p{
+text-align: center;
+margin-bottom: 55px;
+
+}
+.outershopbycat{
+    margin-top: 94px;
+}

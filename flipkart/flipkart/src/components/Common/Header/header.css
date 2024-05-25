@@ -1,0 +1,45 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    height:58px;
+    background-color: white;
+}
+.header .list{
+    display:flex;
+    list-style-type: none;
+}
+.header ul li{
+    margin-right:30px;
+}
+.header .logo{
+    width:163px;
+    height:33px;
+}
+.end{
+    display: flex;
+    height: 23px;
+}
+.wish{
+    margin-right:12px;
+    margin-left:12px;
+}
+.header input{
+    width:486px;
+    height:23px;
+}
+.list li{
+    display: flex;
+    /* width: 129px; */
+    align-items: center;
+}
+/* .list .profile{
+    margin-right: -50px;
+}
+.list .seller{
+    margin-left:-17px;
+} */
+.wishlist img{
+    width:25px;
+}
